@@ -1,4 +1,5 @@
 Basic Facebook scrapper
 =======================
 
-Facebook scrapper. It reereates your network of friends.
+Facebook scrapper that recreates your network of friends. This project dates
+back to 2015 and is outdated.
